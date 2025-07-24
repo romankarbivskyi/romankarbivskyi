@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Roman Karbivskyi
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -51,3 +50,6 @@
   <img src="https://leetcard.jacoblin.cool/romankarbivskyi1?theme=dark" alt="LeetCode Stats" />
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=romankarbivskyi" alt="Profile Views"/>
+</div>
